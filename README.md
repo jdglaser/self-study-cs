@@ -34,10 +34,10 @@ For each subject, there will be a textbook and in some cases associated video se
 
 | Subject Area | Subject |
 | ------------ | ------- |
-| [Core Math](#core-math) | [Pre-calculus](#pre-calculus) |
-| [Core Math](#core-math) | [Calculus](#calculus) |
-| [Core Math](#core-math) | [Discrete Mathematics](#discrete-mathematics) |
-| [Core Math](#core-math) | [Linear Algebra](#linear-algebra) |
+| [Core Math](#core-math) | Pre-calculus |
+| [Core Math](#core-math) | Calculus |
+| [Core Math](#core-math) | Discrete mathematics |
+| [Core Math](#core-math) | Linear algebra |
 | Data Structures & Algorithms | Introduction to Data Structures and Algorithms |
 | Data Structures & Algorithms | Analysis of Algorithms |
 | Software Engineering | Programming |
@@ -52,28 +52,9 @@ For each subject, there will be a textbook and in some cases associated video se
 
 ### Core Math
 
-#### Pre-calculus
-
-| Book | Videos |
-| ---- | ------ |
-| [Openstax: Algebra & Trigonometry, Abramson 2e](https://openstax.org/details/books/algebra-and-trigonometry-2e) | [Professor Leonard's Precalculus - College Algebra/Trigonometry YouTube Playlist](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
-
-#### Calculus
-
-| Book | Videos |
-| ---- | ------ |
-| [Openstax: Calculus: Volume 1, Strang & Herman](https://openstax.org/details/books/calculus-volume-1) | [Professor Leonard's Calculus 1 YouTube Playlist](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5) |
-
-#### Linear Algebra
-
-| Book | Videos |
-| ---- | ------ |
-| [A First Course in Linear Algebra, Beezer](http://linear.ups.edu/index.html) | [3blue1brown Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) |
-
-#### Discrete Mathematics
-
-| Book | Videos |
-| ---- | ------ | 
-| [Discrete Mathematics with Applications, Epp](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328) | - |
-
-
+| Subject | Book | Videos |
+| ------- | ---- | ------ |
+| Pre-calculus | [Openstax: Algebra & Trigonometry, Abramson 2e](https://openstax.org/details/books/algebra-and-trigonometry-2e) | [Professor Leonard's Precalculus - College Algebra/Trigonometry YouTube Playlist](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
+| Calculus | [Openstax: Calculus: Volume 1, Strang & Herman](https://openstax.org/details/books/calculus-volume-1) | [Professor Leonard's Calculus 1 YouTube Playlist](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5) |
+| Linear Algebra | [A First Course in Linear Algebra, Beezer](http://linear.ups.edu/index.html) | [3blue1brown Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
+| Discrete Mathematics | [Discrete Mathematics with Applications, Epp](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328) | - |
