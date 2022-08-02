@@ -56,15 +56,21 @@ For each subject, there will be a textbook and associated video series (usually 
 #### Pre-calculus
 
 **Book**: [Openstax: Algebra & Trigonometry, Abramson 2e](https://openstax.org/details/books/algebra-and-trigonometry-2e)
+
 **Videos**: [Professor Leonard's Precalculus - College Algebra/Trigonometry YouTube Playlist](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
+
 **Why learn?** Computer science itself is really just an applied branch of mathematics, so a strong foundation in fundamental high school mathematics is extremely important. Unfortunately, the state of the US education system leaves much to be desired when it comes to pre-college math education. This leaves many students with gaps in their knowledge of funamental mathematics, which can have detrimental consequences when trying to learn more advanced topics.
+
 **Why these resource?** Many might recommend other pre-calculus texts than the Openstax one recommended here, however I use this one for a few reasons. First, it's free.  Second, the online format is *very* user-friendly (e.g. easy to use links between questions and solutions). Finally, given the abundance of pre-calculus resources on the internet, it is very easy for someone to supplement this book in places where it may be lacking or where students need additional explanations. As for Professor Leonard, he hardly needs justification. A quick Google search for the best college math videos will reveal his popularity / quality.
 
 #### Calculus
 
 **Book**: [Openstax: Calculus: Volume 1, Strang & Herman](https://openstax.org/details/books/calculus-volume-1)
+
 **Videos**: [Professor Leonard's Calculus 1 YouTube Playlist](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5)
+
 **Why Learn?** See my "Why learn?" section for [pre-calculus](#pre-calculus). Even though many CS curriculums at universities, especially those embedded in engineering schools, require students to take calc 1-3 & differential equations, we stop at calculus 1. This is because, in most cases, fundamental CS education does not require mathematical knowledge beyond calculus 1. Students who wish to get into more specialized & math heavy computer science topics (e.g. machine learning or computer graphics) may continue studying calculus 2-3 and differential equations using other resources or continuing on with the remaining Openstax books and Professor Leonard playlists.
+
 **Why these resources?** See my "Why these resources?" section for [pre-calculus](#pre-calculus).
 
 
