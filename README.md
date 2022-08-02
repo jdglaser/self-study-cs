@@ -17,7 +17,6 @@ I built this curriculum with these principals in mind.
 + **Quality over quantity** - A focus on quality, well respected learning material - not a giant, thrown together list of articles, MOOCs, and videos.
 + **Textbooks over MOOCs where possible** - A preference for well regarded textbooks & university lectures over MOOCs<sup>1</sup>.
 + **Fundamentals** - A focus on CS fundamentals, not on "what's hot right now."
-+ **Self-contained** - Prerequisites, even those for basic mathematics, are not overlooked.
 + **Core math included** - CS is, at its core, a branch of applied mathematics.  This curriculum treats it as such.
 + **Suitable for self instruction** - Materials are convenient, effective, and easy to consume for the motivated self-learner.
 
@@ -25,11 +24,11 @@ I built this curriculum with these principals in mind.
 
 ## References
 
-Much of this curriculum was heavily inspired by the resources from [teachyourselfcs.com](https://teachyourselfcs.com/). I highly recommend reading through their website.
+Much of this curriculum was heavily inspired by the resources from [teachyourselfcs.com](https://teachyourselfcs.com/). I highly recommend checking it out.
 
 ## How to use this curriculum
 
-For each subject, there will be a textbook and associated video series (usually YouTube). Do your best to work through the entire textbook and do practice problems where applicable. Use the videos to supplement your learning.
+For each subject, there will be a textbook and in some cases associated video series (usually YouTube). Do your best to work through the entire textbook and do practice problems where applicable. Use the videos to supplement your learning.
 
 ## Subjects
 
@@ -37,8 +36,8 @@ For each subject, there will be a textbook and associated video series (usually 
 | ------------ | ------- |
 | [Core Math](#core-math) | [Pre-calculus](#pre-calculus) |
 | [Core Math](#core-math) | [Calculus](#calculus) |
-| [Core Math](#core-math) | Discrete Mathematics |
-| [Core Math](#core-math) | Linear Algebra |
+| [Core Math](#core-math) | [Discrete Mathematics](#discrete-mathematics) |
+| [Core Math](#core-math) | [Linear Algebra](#linear-algebra) |
 | Data Structures & Algorithms | Introduction to Data Structures and Algorithms |
 | Data Structures & Algorithms | Analysis of Algorithms |
 | Software Engineering | Programming |
@@ -55,23 +54,26 @@ For each subject, there will be a textbook and associated video series (usually 
 
 #### Pre-calculus
 
-**Book**: [Openstax: Algebra & Trigonometry, Abramson 2e](https://openstax.org/details/books/algebra-and-trigonometry-2e)
-
-**Videos**: [Professor Leonard's Precalculus - College Algebra/Trigonometry YouTube Playlist](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
-
-**Why learn?** Computer science itself is really just an applied branch of mathematics, so a strong foundation in fundamental high school mathematics is extremely important. Unfortunately, the state of the US education system leaves much to be desired when it comes to pre-college math education. This leaves many students with gaps in their knowledge of funamental mathematics, which can have detrimental consequences when trying to learn more advanced topics.
-
-**Why these resource?** Many might recommend other pre-calculus texts than the Openstax one recommended here, however I use this one for a few reasons. First, it's free.  Second, the online format is *very* user-friendly (e.g. easy to use links between questions and solutions). Finally, given the abundance of pre-calculus resources on the internet, it is very easy for someone to supplement this book in places where it may be lacking or where students need additional explanations. As for Professor Leonard, he hardly needs justification. A quick Google search for the best college math videos will reveal his popularity / quality.
+| Book | Videos |
+| ---- | ------ |
+| [Openstax: Algebra & Trigonometry, Abramson 2e](https://openstax.org/details/books/algebra-and-trigonometry-2e) | [Professor Leonard's Precalculus - College Algebra/Trigonometry YouTube Playlist](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
 
 #### Calculus
 
-**Book**: [Openstax: Calculus: Volume 1, Strang & Herman](https://openstax.org/details/books/calculus-volume-1)
+| Book | Videos |
+| ---- | ------ |
+| [Openstax: Calculus: Volume 1, Strang & Herman](https://openstax.org/details/books/calculus-volume-1) | [Professor Leonard's Calculus 1 YouTube Playlist](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5) |
 
-**Videos**: [Professor Leonard's Calculus 1 YouTube Playlist](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5)
+#### Linear Algebra
 
-**Why Learn?** See my "Why learn?" section for [pre-calculus](#pre-calculus). Even though many CS curriculums at universities, especially those embedded in engineering schools, require students to take calc 1-3 & differential equations, we stop at calculus 1. This is because, in most cases, fundamental CS education does not require mathematical knowledge beyond calculus 1. Students who wish to get into more specialized & math heavy computer science topics (e.g. machine learning or computer graphics) may continue studying calculus 2-3 and differential equations using other resources or continuing on with the remaining Openstax books and Professor Leonard playlists.
+| Book | Videos |
+| ---- | ------ |
+| [A First Course in Linear Algebra, Beezer](http://linear.ups.edu/index.html) | [3blue1brown Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) |
 
-**Why these resources?** See my "Why these resources?" section for [pre-calculus](#pre-calculus).
+#### Discrete Mathematics
 
+| Book | Videos |
+| ---- | ------ | 
+| [Discrete Mathematics with Applications, Epp](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328) | - |
 
 
