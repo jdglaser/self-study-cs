@@ -45,8 +45,8 @@ For each subject, there will be a textbook and in some cases associated video se
 | Systems | Computer Architecture |
 | Systems | Operating Systems |
 | Systems | Networking |
-| Programming Languages | Programming Languages & Compilers |
-| Distributed Systems | Distributed Systems & Databases |
+| Advanced Topics | Programming Languages & Compilers |
+| Advanced Topics | Distributed Systems & Databases |
 
 ## Prerequisites
 
