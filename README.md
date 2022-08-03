@@ -30,15 +30,15 @@ Much of this curriculum was heavily inspired by the resources from [teachyoursel
 
 For each subject, there will be a textbook and in some cases associated video series (usually YouTube). Do your best to work through the entire textbook and do practice problems where applicable. Use the videos to supplement your learning.
 
-## Subjects
+## Curriculum
 
-| Subject Area | Subject |
-| ------------ | ------- |
-| [Core Math](#core-math) | Pre-calculus |
-| [Core Math](#core-math) | Calculus |
-| [Core Math](#core-math) | Discrete mathematics |
-| [Core Math](#core-math) | Linear algebra |
-| Data Structures & Algorithms | Introduction to Data Structures and Algorithms |
+| Subject Area | Subject | Book | Video |
+| ------------ | ------- | ---- | ----- |
+| Core Math | Pre-calculus | [Openstax: Algebra & Trigonometry, Abramson 2e](https://openstax.org/details/books/algebra-and-trigonometry-2e) | [Professor Leonard's Precalculus - College Algebra/Trigonometry YouTube Playlist](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
+| Core Math | Calculus | [Openstax: Calculus: Volume 1, Strang & Herman](https://openstax.org/details/books/calculus-volume-1) | [Professor Leonard's Calculus 1 YouTube Playlist](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5) |
+| Core Math | Discrete mathematics | [Discrete Mathematics with Applications, Epp](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328) | - |
+| Core Math | Linear algebra | [A First Course in Linear Algebra, Beezer](http://linear.ups.edu/index.html) | [3blue1brown Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) |
+| Data Structures & Algorithms | Introduction to Data Structures and Algorithms | [Algorithms, Sedgewick and Wayne](https://algs4.cs.princeton.edu/home/) | [Coursera Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1) |
 | Data Structures & Algorithms | Analysis of Algorithms |
 | Software Engineering | Programming |
 | Software Engineering | Software Development |
@@ -47,14 +47,3 @@ For each subject, there will be a textbook and in some cases associated video se
 | Systems | Networking |
 | Programming Languages | Programming Languages & Compilers |
 | Distributed Systems | Distributed Systems & Databases |
-
-## Curriculum
-
-### Core Math
-
-| Subject | Book | Videos |
-| ------- | ---- | ------ |
-| Pre-calculus | [Openstax: Algebra & Trigonometry, Abramson 2e](https://openstax.org/details/books/algebra-and-trigonometry-2e) | [Professor Leonard's Precalculus - College Algebra/Trigonometry YouTube Playlist](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
-| Calculus | [Openstax: Calculus: Volume 1, Strang & Herman](https://openstax.org/details/books/calculus-volume-1) | [Professor Leonard's Calculus 1 YouTube Playlist](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5) |
-| Linear Algebra | [A First Course in Linear Algebra, Beezer](http://linear.ups.edu/index.html) | [3blue1brown Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
-| Discrete Mathematics | [Discrete Mathematics with Applications, Epp](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328) | - |
