@@ -53,13 +53,11 @@ For each subject, there will be a textbook and in some cases associated video se
 ```mermaid
 flowchart TB
     subgraph se1[Core Math]
-    direction TB
     style se1 fill:#75B9BE,stroke:#000
         A[Pre-calculus] --> B[Calculus] & C[Discrete Math]
         B & C --> D[Linear Algebra]
     end
     subgraph se2[Data Structures and Algorithms]
-    direction TB
     style se2 fill:#FFC15E,stroke:#000
         E[Introduction to Data\n Structures and Algorithms]
         C & E --> F[Analysis of Algorithms]
@@ -70,5 +68,17 @@ flowchart TB
         G[Computer Architecture] -->
         H[Operating Systems] -->
         I[Networking]
+    end
+    subgraph se4[Software Engineering]
+    direction TB
+    style se4 fill:#C1FF9B,stroke:#000
+        J[Programming]
+        J --> G
+    end
+    subgraph se5[Advanced Topics]
+    style se5 fill:#7A6F9B,stroke:#000
+        K[Distributed Systems]
+        L[Programming Languages]
+        J --> K & L
     end
 ```
