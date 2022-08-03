@@ -47,3 +47,25 @@ For each subject, there will be a textbook and in some cases associated video se
 | Systems | Networking |
 | Programming Languages | Programming Languages & Compilers |
 | Distributed Systems | Distributed Systems & Databases |
+
+## Prerequisites
+
+```mermaid
+flowchart TB
+    subgraph se1[Core Math]
+    style se1 fill:#75B9BE,stroke:#000
+        A[Pre-calculus] --> B[Calculus] & C[Discrete Math]
+        B & C --> D[Linear Algebra]
+    end
+    subgraph se2[Data Structures and Algorithms]
+    style se2 fill:#FFC15E,stroke:#000
+        E[Introduction to Data\n Structures and Algorithms]
+        C & E --> F[Analysis of Algorithms]
+    end
+    subgraph se3[Systems]
+    style se3 fill:#EE7674,stroke:#000
+        G[Computer Architecture] -->
+        H[Operating Systems] -->
+        I[Networking]
+    end
+```
