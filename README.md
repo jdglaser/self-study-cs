@@ -30,24 +30,9 @@ Much of this curriculum was heavily inspired by the resources from [teachyoursel
 
 For each subject, there will be a textbook and in some cases associated video series (usually YouTube) or MOOC. In cases where there is only a book and lectures, work through the problem sets in the book until comfortable with the material. In cases where there is a full course (e.g. MIT OCW), work through the problem sets and exams.
 
-## Curriculum
-
-| Subject Area | Subject | Book | Video |
-| ------------ | ------- | ---- | ----- |
-| Core Math | Pre-calculus | [Openstax: Algebra & Trigonometry, Abramson 2e](https://openstax.org/details/books/algebra-and-trigonometry-2e) | [Professor Leonard's Precalculus - College Algebra/Trigonometry YouTube Playlist](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
-| Core Math | Calculus | [Openstax: Calculus: Volume 1, Strang & Herman](https://openstax.org/details/books/calculus-volume-1) | [Professor Leonard's Calculus 1 YouTube Playlist](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5) |
-| Core Math | Discrete mathematics | [Discrete Mathematics with Applications, Epp](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328) | - |
-| Core Math | Linear algebra | [A First Course in Linear Algebra, Beezer](http://linear.ups.edu/index.html) | [3blue1brown Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) |
-| Data Structures & Algorithms | Introduction to Data Structures and Algorithms | [CLRS](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) | [MIT OCW Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
-| Data Structures & Algorithms | Analysis of Algorithms | [CLRS](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) | [MIT OCW Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) |
-| Software Engineering | Programming |
-| Systems | Computer Architecture |
-| Systems | Operating Systems |
-| Systems | Networking |
-| Advanced Topics | Programming Languages & Compilers |
-| Advanced Topics | Distributed Systems & Databases |
-
 ## Order of Study
+
+The subjects below can be studied in approximately the following order
 
 ```mermaid
 flowchart TB
@@ -59,8 +44,9 @@ flowchart TB
     subgraph se2[Data Structures and Algorithms]
     style se2 fill:#FFC15E,stroke:#000
         E[Introduction to Data\n Structures and Algorithms]
-        C --> E
-        E --> F[Analysis of Algorithms]
+        E --> F
+        A --> E
+        C --> F[Analysis of Algorithms]
     end
     subgraph se3[Systems]
     direction TB
@@ -82,3 +68,21 @@ flowchart TB
         J --> K & L
     end
 ```
+
+## Curriculum
+
+| Subject Area | Subject | Book | Video |
+| ------------ | ------- | ---- | ----- |
+| Core Math | Pre-calculus | [Openstax: Algebra & Trigonometry, Abramson 2e](https://openstax.org/details/books/algebra-and-trigonometry-2e) | [Professor Leonard's Precalculus - College Algebra/Trigonometry YouTube Playlist](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP) |
+| Core Math | Calculus | [Openstax: Calculus: Volume 1, Strang & Herman](https://openstax.org/details/books/calculus-volume-1) | [Professor Leonard's Calculus 1 YouTube Playlist](https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5) |
+| Core Math | Discrete mathematics | [Discrete Mathematics with Applications, Epp](https://www.amazon.com/Discrete-Mathematics-Applications-Susanna-Epp/dp/0495391328) | TODO |
+| Core Math | Linear algebra | [A First Course in Linear Algebra, Beezer](http://linear.ups.edu/index.html) | [3blue1brown Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra) |
+| Data Structures & Algorithms | Introduction to Data Structures and Algorithms | [Algorithms, Sedgewick and Wayne](https://www.amazon.com/gp/product/032157351X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=algs4-coursera-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=032157351X) | [Coursera - Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1) and [Coursera - Algorithms Part 2](https://www.coursera.org/learn/algorithms-part2) |
+| Data Structures & Algorithms | Analysis of Algorithms | [CLRS](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) | [MIT OCW Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) and [MIT OCW Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) |
+| Software Engineering | Programming | [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | TODO |
+| Systems | Computer Architecture | [Computer Systems, A Programmers Perspective, Bryant and O'Hallaron](http://csapp.cs.cmu.edu/3e/home.html) | [CMU CS15-213 Lectures](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50) |
+| Systems | Operating Systems | [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) | TODO |
+| Systems | Networking | [Computer Networking: A Top-Down Approach, Kurose and Ross](https://gaia.cs.umass.edu/kurose_ross/index.php) & [Labs](https://gaia.cs.umass.edu/kurose_ross/wireshark.php) | |
+| Advanced Topics | Programming Languages & Compilers |
+| Advanced Topics | Distributed Systems & Databases |
+
